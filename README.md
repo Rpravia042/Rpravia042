@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <img src="tomassa-orbit.jpg" alt="Tomassa, a white and orange cat with a striped tail, curled beneath a glowing orbit" width="900">
+</p>
 
-<!--
-**Rpravia042/Rpravia042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Raúl Pravia</h1>
 
-Here are some ideas to get you started:
+<p align="center">Cloud infrastructure · Observability · Security log analysis</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+### [Splunk Distributed Lab](https://github.com/Rpravia042/splunk-distributed-lab)
+
+I built a three-node Splunk lab on Google Cloud and traced Linux telemetry from collection to distributed search. When the Search Head ran low on disk space, I expanded its filesystem, verified that searches worked again, and tested two independent Cloud Monitoring alerts.
+
+| 3 nodes | 2 external alerts | 22 repository tests |
+| --- | --- | --- |
+| Universal Forwarder, Indexer and Search Head | Low space and missing disk metrics | Recovery, sanitization and monitoring checks |
+
+[Architecture](https://github.com/Rpravia042/splunk-distributed-lab#architecture) · [Disk recovery case study](https://github.com/Rpravia042/splunk-distributed-lab#disk-capacity-case-study) · [Alert validation](https://github.com/Rpravia042/splunk-distributed-lab/blob/main/configs/examples/observability-v2/cloud-monitoring/README.md#observed-validation)
