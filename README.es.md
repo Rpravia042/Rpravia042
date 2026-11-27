@@ -16,24 +16,12 @@
 
 ## Sobre mí
 
-Hago proyectos prácticos de infraestructura en la nube y observabilidad. Me gusta investigar cómo fallan los sistemas y documentar cómo comprobé que la solución funcionó.
-
-<details>
-<summary>Cómo trabajo</summary>
-
-```yaml
-enfoque:
-  - seguir la señal desde la recolección hasta la búsqueda
-  - reproducir el problema y verificar la solución
-  - documentar la evidencia y sus límites
-```
-
-</details>
+He usado Microsoft Azure y Google Cloud en mis proyectos. Me gusta investigar por qué falla un sistema a partir de los logs y las métricas de Linux. En mi laboratorio de Splunk configuré la búsqueda distribuida y probé dos alertas de disco que funcionan de forma independiente de Splunk.
 
 ## Herramientas
 
 **Nube y sistemas**  
-![Google Cloud](assets/badges/google-cloud.svg) ![Linux](assets/badges/linux.svg)
+![Google Cloud](assets/badges/google-cloud.svg) ![Microsoft Azure](assets/badges/azure.svg) ![Linux](assets/badges/linux.svg)
 
 **Observabilidad**  
 ![Splunk Enterprise](assets/badges/splunk.svg) ![SPL](assets/badges/spl.svg) ![Cloud Monitoring](assets/badges/cloud-monitoring.svg) ![Ops Agent](assets/badges/ops-agent.svg)

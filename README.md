@@ -16,24 +16,12 @@
 
 ## About me
 
-I build hands-on projects in cloud infrastructure and observability. I like tracing how systems fail and documenting how I verified the fix.
-
-<details>
-<summary>How I work</summary>
-
-```yaml
-approach:
-  - trace the signal from collection to search
-  - reproduce the problem and verify the fix
-  - document the evidence and its limits
-```
-
-</details>
+I've used Microsoft Azure and Google Cloud in my projects. I like using Linux logs and metrics to figure out why systems fail. In my Splunk lab, I set up distributed search and tested two disk monitoring alerts that work independently of Splunk.
 
 ## Tech stack
 
 **Cloud & systems**  
-![Google Cloud](assets/badges/google-cloud.svg) ![Linux](assets/badges/linux.svg)
+![Google Cloud](assets/badges/google-cloud.svg) ![Microsoft Azure](assets/badges/azure.svg) ![Linux](assets/badges/linux.svg)
 
 **Observability**  
 ![Splunk Enterprise](assets/badges/splunk.svg) ![SPL](assets/badges/spl.svg) ![Cloud Monitoring](assets/badges/cloud-monitoring.svg) ![Ops Agent](assets/badges/ops-agent.svg)
