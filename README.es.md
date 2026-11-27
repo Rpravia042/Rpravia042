@@ -47,6 +47,12 @@ Monté un laboratorio de Splunk de tres nodos en Google Cloud y seguí la teleme
 
 [Arquitectura](https://github.com/Rpravia042/splunk-distributed-lab#architecture) · [Caso de recuperación de disco](https://github.com/Rpravia042/splunk-distributed-lab#disk-capacity-case-study) · [Validación de alertas](https://github.com/Rpravia042/splunk-distributed-lab/blob/main/configs/examples/observability-v2/cloud-monitoring/README.md#observed-validation) · [Guía del lab en español](https://github.com/Rpravia042/splunk-distributed-lab/blob/main/docs/guia-es.md)
 
+### [Asistente bilingüe para huéspedes](https://github.com/Rpravia042/bilingual-hotel-assistant/blob/main/README.es.md)
+
+Un bot en Python para atender consultas en español e inglés. El simulador local de WhatsApp valida la firma de los eventos, evita duplicados y guarda por separado el idioma y el menú de cada conversación en SQLite. La demo usa un hotel ficticio y datos de ejemplo.
+
+[Probar la demo](https://github.com/Rpravia042/bilingual-hotel-assistant/blob/main/README.es.md#c%C3%B3mo-probarlo) · [Conversación de ejemplo](https://github.com/Rpravia042/bilingual-hotel-assistant/blob/main/docs/demo-transcript.txt) · [Pruebas](https://github.com/Rpravia042/bilingual-hotel-assistant/blob/main/README.es.md#pruebas)
+
 <details>
 <summary>En desarrollo</summary>
 

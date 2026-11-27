@@ -47,6 +47,12 @@ I built a three-node Splunk lab on Google Cloud and traced Linux telemetry from 
 
 [Architecture](https://github.com/Rpravia042/splunk-distributed-lab#architecture) · [Disk recovery case study](https://github.com/Rpravia042/splunk-distributed-lab#disk-capacity-case-study) · [Alert validation](https://github.com/Rpravia042/splunk-distributed-lab/blob/main/configs/examples/observability-v2/cloud-monitoring/README.md#observed-validation)
 
+### [Bilingual Hotel Assistant](https://github.com/Rpravia042/bilingual-hotel-assistant)
+
+A Python chatbot for guest questions in English and Spanish. The offline WhatsApp simulator verifies signed events, handles duplicates, and keeps each guest’s language and menu separate in SQLite. The demo uses a fictional hotel and sample data.
+
+[Try the demo](https://github.com/Rpravia042/bilingual-hotel-assistant#try-it-locally) · [Example conversation](https://github.com/Rpravia042/bilingual-hotel-assistant/blob/main/docs/demo-transcript.txt) · [Tests](https://github.com/Rpravia042/bilingual-hotel-assistant#tests)
+
 <details>
 <summary>In development</summary>
 
