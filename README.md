@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="tomassa-orbit.jpg" alt="Tomassa, a white and orange cat with a striped tail, curled beneath a glowing orbit" width="900">
+  <img src="tomassa-banner.png" alt="Tomassa, an orange-and-white cat curled up against a cream background" width="900">
 </p>
 
 <p align="center">Cloud infrastructure · Observability · Security log analysis</p>

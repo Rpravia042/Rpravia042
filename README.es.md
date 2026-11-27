@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="tomassa-orbit.jpg" alt="Tomassa, una gata blanca y naranja de cola rayada, acurrucada bajo una órbita luminosa" width="900">
+  <img src="tomassa-banner.png" alt="Tomassa, una gata naranja y blanca acurrucada sobre un fondo crema" width="900">
 </p>
 
 <p align="center">Infraestructura en la nube · Observabilidad · Análisis de logs de seguridad</p>
