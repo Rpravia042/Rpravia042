@@ -16,7 +16,9 @@
 
 ## Sobre mí
 
-He usado Microsoft Azure y Google Cloud en mis proyectos. Me gusta investigar por qué falla un sistema a partir de los logs y las métricas de Linux. En mi laboratorio de Splunk configuré la búsqueda distribuida y probé dos alertas de disco que funcionan de forma independiente de Splunk.
+Soy Raúl y estudio Ingeniería en Seguridad Informática en la Universidad Fidélitas, en Costa Rica. Me interesa la seguridad defensiva, sobre todo reconstruir qué pasó a partir de los logs, las alertas y la actividad de red. En mis proyectos he analizado logs de Linux con Splunk, diseñado redes en Cisco Packet Tracer, trabajado con Microsoft Azure y Google Cloud, y escrito scripts en Python y Bash.
+
+También hago proyectos de tecnología para hotelería. He trabajado en el rediseño de la web de un hotel y en un prototipo de asistente bilingüe para responder consultas de huéspedes.
 
 ## Herramientas
 

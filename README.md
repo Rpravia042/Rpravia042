@@ -16,7 +16,9 @@
 
 ## About me
 
-I've used Microsoft Azure and Google Cloud in my projects. I like using Linux logs and metrics to figure out why systems fail. In my Splunk lab, I set up distributed search and tested two disk monitoring alerts that work independently of Splunk.
+Hi, I’m Raúl. I study Information Security Engineering at Universidad Fidélitas in Costa Rica. I’m interested in defensive security, especially figuring out what happened by looking at logs, alerts, and network activity. In my projects, I’ve analyzed Linux logs with Splunk, designed networks in Cisco Packet Tracer, worked with Microsoft Azure and Google Cloud, and written scripts in Python and Bash.
+
+I also work on technology for hospitality. I’ve helped redesign a hotel website and prototyped a bilingual assistant to answer guest questions.
 
 ## Tech stack
 
